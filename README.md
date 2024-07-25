@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Ido Azulay
+## Hi there! 👋 I'm Ido Azulay
 
 I'm a third-year Computer Science student at Hadassah Academic College in Jerusalem, currently enrolled in a four-year program. My journey in tech began with a keen interest in software development, which led me to explore various areas of the field.
 
