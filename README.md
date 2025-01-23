@@ -12,6 +12,7 @@ I'm a third-year Computer Science student at Hadassah Academic College in Jerusa
 - **Frameworks & Libraries:** SFML, React (basic)
 - **Tools:** Git, GitHub
 
+https://ido-azulay.netlify.app/
 <!-- #### 🌟 About Me
 I'm passionate about technology and always seeking to learn and improve my skills. Whether it's exploring new frameworks or diving into complex algorithms and data structures, I enjoy the challenge and the continuous learning that comes with being in the tech field. -->
 
